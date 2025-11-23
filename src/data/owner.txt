@@ -1,0 +1,5 @@
+[2025-11-22 16:37:08] Added new product: Hakka Noodle, qty: 20
+[2025-11-22 16:37:29] Added 100 units to Hakka Noodle
+[2025-11-22 16:42:41] Added new product: Sooji, qty: 75
+[2025-11-22 17:01:01] Added new product: Potato, qty: 10000
+[2025-11-23 16:31:53] Added new product: Corriender, qty: 59

@@ -1,0 +1,13 @@
+[2025-11-22 16:38:25] Shubh Gupta paid $6720.00 via cash
+  Hakka Noodle x120 = $6720.00
+
+[2025-11-22 16:48:54] Customer: aryan | Total: $665.00 | Payment: cash
+  Sooji x20 = $665.00 (5.0% off)
+
+[2025-11-22 16:57:06] Customer: Shubh | Total: $166.25 | Payment: UPI
+  Sooji x5 = $166.25 (5.0% off)
+
+[2025-11-22 17:24:37] Customer: Shubh | Total: $45831.25 | Payment: UPI
+  Sooji x25 = $831.25 (5.0% off)
+  Potato x500 = $45000.00 (10.0% off)
+

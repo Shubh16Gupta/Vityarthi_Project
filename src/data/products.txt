@@ -1,0 +1,4 @@
+Hakka Noodle|56.0|0|0.0|row 5
+Sooji|35.0|25|5.0|r6 c4
+Potato|100.0|9500|10.0|R1C2
+Corriender|20.0|59|10.0|R4C2
